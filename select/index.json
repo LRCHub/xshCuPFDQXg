@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "679",
+  "base_artist": "Fetty Wap",
+  "createdAt": "2026-04-05T15:53:51.060224Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "679 (feat. Monty)",
+      "artist": "Fetty Wap feat. Monty",
+      "has_synced": true,
+      "path": "select/01_679_(feat._Monty)_Fetty_Wap_feat._Monty.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "679 (feat. Monty)",
+      "artist": "Fetty Wap",
+      "has_synced": true,
+      "path": "select/02_679_(feat._Monty)_Fetty_Wap.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "679 (Mixed)",
+      "artist": "Fetty Wap feat. Remy Boyz",
+      "has_synced": false,
+      "path": "select/03_679_(Mixed)_Fetty_Wap_feat._Remy_Boyz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "679 (feat. Remy Boyz)",
+      "artist": "Fetty Wap feat. Remy Boyz",
+      "has_synced": true,
+      "path": "select/04_679_(feat._Remy_Boyz)_Fetty_Wap_feat._Remy_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "679 (Feat. Remy Boyz)",
+      "artist": "Fetty Wap, Remy Boyz",
+      "has_synced": true,
+      "path": "select/05_679_(Feat._Remy_Boyz)_Fetty_Wap,_Remy_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "679 (Mixed)",
+      "artist": "Fetty Wap",
+      "has_synced": true,
+      "path": "select/06_679_(Mixed)_Fetty_Wap.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "679 (Radio Edit)",
+      "artist": "Fetty Wap",
+      "has_synced": true,
+      "path": "select/07_679_(Radio_Edit)_Fetty_Wap.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "679 (feat. Monty)",
+      "artist": "Fetty Wap",
+      "has_synced": true,
+      "path": "select/08_679_(feat._Monty)_Fetty_Wap.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "679 & No Diggity",
+      "artist": "Jackson Breit",
+      "has_synced": false,
+      "path": "select/09_679_&_No_Diggity_Jackson_Breit.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "679",
+      "artist": "Fetty Wap feat. Kaaris",
+      "has_synced": true,
+      "path": "select/10_679_Fetty_Wap_feat._Kaaris.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "679 (feat. Kaaris)",
+      "artist": "Fetty Wap",
+      "has_synced": true,
+      "path": "select/11_679_(feat._Kaaris)_Fetty_Wap.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "679",
+      "artist": "Fetty Wap feat. Monty",
+      "has_synced": true,
+      "path": "select/12_679_Fetty_Wap_feat._Monty.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "679",
+      "artist": "Fetty Wap feat. Monty",
+      "has_synced": true,
+      "path": "select/13_679_Fetty_Wap_feat._Monty.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "679 (feat. Monty)",
+      "artist": "Fetty Wap",
+      "has_synced": true,
+      "path": "select/14_679_(feat._Monty)_Fetty_Wap.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "679 (feat. Monty)",
+      "artist": "Fetty Wap/Monty",
+      "has_synced": true,
+      "path": "select/15_679_(feat._Monty)_Fetty_Wap_Monty.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "679 (feat. Monty) (Original Mix)",
+      "artist": "Fetty Wap feat. Monty",
+      "has_synced": true,
+      "path": "select/16_679_(feat._Monty)_(Original_Mix)_Fetty_Wap_feat._Monty.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "679",
+      "artist": "Fetty Wap",
+      "has_synced": true,
+      "path": "select/17_679_Fetty_Wap.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "679 (feat. Monty)",
+      "artist": "Fetty Wap",
+      "has_synced": false,
+      "path": "select/pl_01_679_(feat._Monty)_Fetty_Wap.txt"
+    }
+  ]
+}
